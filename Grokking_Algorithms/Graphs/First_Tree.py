@@ -14,6 +14,5 @@ def printnames(start_dir):
             else:
                 search_queue.append(fullpath)
 
-# Example usage:
-printnames('/path/to/start/directory')  # Replace with your desired starting directory
-print("Done!")
+# Example
+printnames("pics")
